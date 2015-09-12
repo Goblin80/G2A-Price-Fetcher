@@ -9,3 +9,5 @@ A Simple script that gets current prices of listed auctions.
 
 **cURL** and libcURL are licensed under a MIT/X derivate license.
 
+**libeay32** is part of OpenSSL bundle and licensed the GNU Public Licence.
+
